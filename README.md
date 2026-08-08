@@ -3,7 +3,7 @@
 ## Files
 - `stage1_notebook.ipynb` — training pipeline, evaluation, and write-up
 - `model_checkpoint/` — saved model + tokenizer (best validation
-  checkpoint) (*Saved model too large for github and is stored on this google drive link:*)
+  checkpoint) (*Saved model too large for github and is stored on this google drive link:https://drive.google.com/drive/folders/1RW3HsRF9pRRM-6JeItkyTuL3PE4RnKcg?usp=sharing*)
 - `public_test_predictions.csv` — predictions on `public_test.csv`
   (`id,predicted_label`)
 - `requirements.txt` — pinned dependencies
